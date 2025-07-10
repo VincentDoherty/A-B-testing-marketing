@@ -1,2 +1,2 @@
 # A-B-testing-marketing
-This project simulates how a Data Analyst might approach A/B testing and conversion analysis using a real-world dataset.
+This project demonstrates a full A/B testing pipeline using simulated ad click data, evaluating the performance of two marketing strategies using statistical hypothesis testing. Ideal for understanding campaign effectiveness and ROI optimization
